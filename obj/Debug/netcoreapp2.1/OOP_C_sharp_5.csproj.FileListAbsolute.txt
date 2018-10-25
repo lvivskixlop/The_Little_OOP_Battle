@@ -1,0 +1,11 @@
+E:\study\ST\OOP_C_sharp_5\OOP_C_sharp_5\obj\Debug\netcoreapp2.1\OOP_C_sharp_5.csprojAssemblyReference.cache
+E:\study\ST\OOP_C_sharp_5\OOP_C_sharp_5\obj\Debug\netcoreapp2.1\OOP_C_sharp_5.csproj.CoreCompileInputs.cache
+E:\study\ST\OOP_C_sharp_5\OOP_C_sharp_5\obj\Debug\netcoreapp2.1\OOP_C_sharp_5.AssemblyInfoInputs.cache
+E:\study\ST\OOP_C_sharp_5\OOP_C_sharp_5\obj\Debug\netcoreapp2.1\OOP_C_sharp_5.AssemblyInfo.cs
+E:\study\ST\OOP_C_sharp_5\OOP_C_sharp_5\bin\Debug\netcoreapp2.1\OOP_C_sharp_5.deps.json
+E:\study\ST\OOP_C_sharp_5\OOP_C_sharp_5\bin\Debug\netcoreapp2.1\OOP_C_sharp_5.runtimeconfig.json
+E:\study\ST\OOP_C_sharp_5\OOP_C_sharp_5\bin\Debug\netcoreapp2.1\OOP_C_sharp_5.runtimeconfig.dev.json
+E:\study\ST\OOP_C_sharp_5\OOP_C_sharp_5\bin\Debug\netcoreapp2.1\OOP_C_sharp_5.dll
+E:\study\ST\OOP_C_sharp_5\OOP_C_sharp_5\bin\Debug\netcoreapp2.1\OOP_C_sharp_5.pdb
+E:\study\ST\OOP_C_sharp_5\OOP_C_sharp_5\obj\Debug\netcoreapp2.1\OOP_C_sharp_5.dll
+E:\study\ST\OOP_C_sharp_5\OOP_C_sharp_5\obj\Debug\netcoreapp2.1\OOP_C_sharp_5.pdb
